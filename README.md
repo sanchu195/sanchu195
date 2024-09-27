@@ -1,7 +1,12 @@
-# Hi, I'm Sanchith 
+# Hi, I'm Sanchith 😊
 Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-venkatesan-208652190/)
 
-## Capture The Flag (CTF) Awards:
+##🚩 Capture The Flag (CTF) Awards:
+- **Placed 4th in FSU CTF 2024 - Graduate Division:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Focused on buffer overflow, return-to-libc, XSS, CSRF, SQL injection, cryptography, reverse engineering, and other common vulnerabilities.
+
+- **Placed 3rd in OSINT CTF organized by OWASP SRM-KTR:** <br>
+&nbsp;&nbsp;&nbsp;&nbsp; Focused on web-related security using OSINT techniques to identify vulnerabilities in web applications.
 
 
 
