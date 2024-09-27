@@ -16,6 +16,16 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 -	Microsoft Technology Associate: Security Fundamentals
 -	Introduction to Cybersecurity (New York University – Coursera)
 
+## 🔭 Projects:
+- Packet Sniffing and Detection:
+  -	Implemented a Man-In-The-Middle (MITM) attack using ARP spoofing to capture network packets.
+  - Developed a Spoof Detector that recognizes malicious packets based on the packet’s properties.<br><br>
+- Car Price Prediction:
+  - Published in <i>ACM Digital Library</i>: [https://doi.org/10.1145/3590837.3590864]
+  - Applied Machine learning (linear regression) to predict the price of a car based on different variables.
+  - Achieved an accuracy of 89% on the training data and 88.5% on the test data.
+
+
 
 <!--
 **sanchu195/sanchu195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
