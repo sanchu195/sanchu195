@@ -8,8 +8,13 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 - **Placed 3rd in OSINT CTF organized by OWASP SRM-KTR:** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Focused on web-related security using OSINT techniques to identify vulnerabilities in web applications.
 
-
-
+## 📃 Certifications:
+-	Red Hat Certified System Administrator (RHCSA) (expected December 2024)
+-	CompTIA Security+ (expected January 2025)
+-	AWS Certified Cloud Practitioner
+-	LPI Linux Essentials
+-	Microsoft Technology Associate: Security Fundamentals
+-	Introduction to Cybersecurity (New York University – Coursera)
 
 
 <!--
