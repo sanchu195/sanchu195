@@ -11,9 +11,9 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 ## 📃 Certifications:
 -	**Red Hat Certified System Administrator (RHCSA)** (<i>expected December 2024</i>)
 -	**CompTIA Security+** (<i>expected January 2025</i>)
--	**[AWS Certified Cloud Practitioner](AWS CCP.pdf)**
--	**LPI Linux Essentials**
--	**Microsoft Technology Associate: Security Fundamentals**
+-	**[AWS Certified Cloud Practitioner](AWS_CCP.pdf)**
+-	**[LPI Linux Essentials](LPI-essentials.pdf)**
+-	**[Microsoft Technology Associate: Security Fundamentals]()**
 -	**Introduction to Cybersecurity (New York University – Coursera)**
 
 ## 🔭 Projects:
