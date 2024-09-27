@@ -25,6 +25,12 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
   - Applied Machine learning (linear regression) to predict the price of a car based on different variables.
   - Achieved an accuracy of 89% on the training data and 88.5% on the test data.
 
+## 📢 Activities:
+- **Member** of the **FSU Cybersecurity Club** which organized CTF competitions and events discussing Cybersecurity
+- **Secretary** of the **FSU Bhakti Yoga Club** which organized events educating people about Bhakti Yoga
+-	**Vice-President** of **Leo Club** which helped in cleaning the environment and educating poor people about the importance of keeping the environment clean
+- **Member** of the **Dhruva: C-Cube Club** which helped people gain knowledge regarding character, competence, and culture.
+
 
 
 <!--
