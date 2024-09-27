@@ -1,5 +1,5 @@
-## Hi there 👋
-
+# Hi, I'm Sanchith 
+Connect with me on Linkedin: [MyProfile]()
 <!--
 **sanchu195/sanchu195** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
