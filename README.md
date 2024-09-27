@@ -2,7 +2,7 @@
 Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-venkatesan-208652190/)
 
 ## 🚩 Capture The Flag (CTF) Awards:
-- **[Placed 4th in FSU CTF 2024 - Graduate Division:](https://github.com/sanchu195/sanchu195/blob/main/FSU_CTF2024.pdf)** <br>
+- **[Placed 4th in FSU CTF 2024 - Graduate Division:](FSU_CTF2024.pdf)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Focused on buffer overflow, return-to-libc, XSS, CSRF, SQL injection, cryptography, reverse engineering, and other common vulnerabilities.
 
 - **[Placed 3rd in OSINT CTF organized by OWASP SRM-KTR:](OSINT-CTF.pdf)** <br>
@@ -11,7 +11,7 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 ## 📃 Certifications:
 -	**Red Hat Certified System Administrator (RHCSA)** (<i>expected December 2024</i>)
 -	**CompTIA Security+** (<i>expected January 2025</i>)
--	**AWS Certified Cloud Practitioner**
+-	**[AWS Certified Cloud Practitioner](AWS CCP.pdf)**
 -	**LPI Linux Essentials**
 -	**Microsoft Technology Associate: Security Fundamentals**
 -	**Introduction to Cybersecurity (New York University – Coursera)**
