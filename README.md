@@ -14,7 +14,7 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 -	**[AWS Certified Cloud Practitioner](https://www.credly.com/badges/61ee544f-b47c-411f-afb0-44ff6b1b7ded/public_url)**
 -	**[LPI Linux Essentials](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000490842/9bq9tuu8tp)**
 -	**[Microsoft Technology Associate: Security Fundamentals](https://www.credly.com/badges/e9881c88-732c-4367-a243-935f2fe6e857/public_url)**
--	**[Introduction to Cybersecurity (New York University – Coursera)]()**
+-	**[Introduction to Cybersecurity (New York University – Coursera)](https://coursera.org/share/e612f562c1058c0a87e82a19eb48f5d4)**
 
 ## 🔭 Projects:
 - **Packet Sniffing and Detection:**
