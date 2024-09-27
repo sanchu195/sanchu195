@@ -5,7 +5,7 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 - **[Placed 4th in FSU CTF 2024 - Graduate Division:](https://github.com/sanchu195/sanchu195/blob/main/FSU_CTF2024.pdf)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Focused on buffer overflow, return-to-libc, XSS, CSRF, SQL injection, cryptography, reverse engineering, and other common vulnerabilities.
 
-- **[Placed 3rd in OSINT CTF organized by OWASP SRM-KTR:]()** <br>
+- **[Placed 3rd in OSINT CTF organized by OWASP SRM-KTR:](OSINT-CTF.pdf)** <br>
 &nbsp;&nbsp;&nbsp;&nbsp; Focused on web-related security using OSINT techniques to identify vulnerabilities in web applications.
 
 ## 📃 Certifications:
