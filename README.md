@@ -22,6 +22,9 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
   - Developed a Spoof Detector that recognizes malicious packets based on the packet’s properties.<br><br>
   
 - **[Finetuning CodeBERT for Detecting Web Vulnerabilities](codeBERT)**
+  - Fine-tuned CodeBERT to classify web vulnerabilities like SQL Injection and XSS.
+  - Achieved 94% accuracy and 0.914 F1-score, applying the model to real-world CTF code snippets.
+
 
 - **[Car Price Prediction:](car_price_prediction)**
   - Published in <i>ACM Digital Library</i>: [https://doi.org/10.1145/3590837.3590864]
