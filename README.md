@@ -1,5 +1,5 @@
 # Hi, I'm Sanchith 😊
-Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-venkatesan-208652190/)
+Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith195)
 
 ## 🚩 Capture The Flag (CTF) Awards:
 - **[Placed 4th in FSU CTF 2024 - Graduate Division:](FSU_CTF2024.pdf)** <br>
