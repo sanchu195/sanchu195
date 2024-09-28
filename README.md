@@ -17,7 +17,7 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 -	**[Introduction to Cybersecurity (New York University – Coursera)](https://coursera.org/share/e612f562c1058c0a87e82a19eb48f5d4)**
 
 ## 🔭 Projects:
-- **Packet Sniffing and Detection:**
+- **[Packet Sniffing and Detection:]()**
   -	Implemented a Man-In-The-Middle (MITM) attack using ARP spoofing to capture network packets.
   - Developed a Spoof Detector that recognizes malicious packets based on the packet’s properties.<br><br>
 - **Car Price Prediction:**
