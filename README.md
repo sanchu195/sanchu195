@@ -17,10 +17,13 @@ Connect with me on Linkedin: [MyProfile](https://www.linkedin.com/in/sanchith-ve
 -	**[Introduction to Cybersecurity (New York University – Coursera)](https://coursera.org/share/e612f562c1058c0a87e82a19eb48f5d4)**
 
 ## 🔭 Projects:
-- **[Packet Sniffing and Detection:]()**
+- **[Packet Sniffing and Detection:](packet_sniffing_and_detection)**
   -	Implemented a Man-In-The-Middle (MITM) attack using ARP spoofing to capture network packets.
   - Developed a Spoof Detector that recognizes malicious packets based on the packet’s properties.<br><br>
-- **Car Price Prediction:**
+  
+- **[Finetuning CodeBERT for Detecting Web Vulnerabilities](codeBERT)**
+
+- **[Car Price Prediction:](car_price_prediction)**
   - Published in <i>ACM Digital Library</i>: [https://doi.org/10.1145/3590837.3590864]
   - Applied Machine learning (linear regression) to predict the price of a car based on different variables.
   - Achieved an accuracy of 89% on the training data and 88.5% on the test data.
